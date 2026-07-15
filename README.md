@@ -1,2 +1,5 @@
-# python_cc_fsm2_kw28
-Repository für das Fachspezifische Modul 2
+
+# Repository für das Fachspezifische Modul 2
+
+Hier ist der ganze Python code vom Dozenten für den Unterricht.
+
