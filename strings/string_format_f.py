@@ -47,3 +47,9 @@ print(f"Status: {'Volljährig' if alter >= 18 else 'Minderjährig'}")
 # dictionary
 person = {"name": "John", "age": 19}
 print(f"{person['name']} is {person['age']} years old.")
+
+
+# mit methodenaufruf
+string = "Hello this is my World"
+print(f"{string.title()}")
+

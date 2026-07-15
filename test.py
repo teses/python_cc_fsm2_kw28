@@ -1,6 +1,13 @@
 
 
-print("Hallo Welt! Eses")
+"""
+    Ein mehrzeiliger Kommentar
+    Dieser kann mehrere Zeilen haben
+"""
 
-print("Hallo Du")
+
+'''
+    Ein mehrzeiliger Kommentar.
+    Dieser sollte aber wenn möglich nicht benutzt werden
+'''
 
