@@ -1,7 +1,7 @@
 """
     Einfache Datentypen
     Python ist nicht typisiert.
-    skalare Datentypen
+    skalare Datentypen sind intern aber als Objekt abgebildet
 
 
 """
