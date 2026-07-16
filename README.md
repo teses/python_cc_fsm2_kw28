@@ -21,3 +21,8 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
   * formatierung format()
   * manipulation
   * Regex
+* arrays
+  * list
+  * tuple
+  * set
+  * dictionary
