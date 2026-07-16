@@ -8,6 +8,11 @@ meinString = "    hello mein, World!-------"
 # meinString = "Vance &amp; Hince"
 # meinString = "ITEMNUMBER"
 
+# Zeichenanzahl
+print(len(meinString))
+
+
+
 # Methoden zum manipulieren
 print(meinString.upper()) # großschreiben
 print(meinString.lower()) # kleinschreiben
