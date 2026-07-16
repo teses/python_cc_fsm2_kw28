@@ -15,4 +15,9 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
   * arithmetic_assignment_operators - Arithmetische Zuweisungsoperatoren
   * precision
 * Strings
-  * 
+  * escaping
+  * slicing
+  * formatierung f-String
+  * formatierung format()
+  * manipulation
+  * Regex
