@@ -12,3 +12,4 @@ __pycache__/
 # Visual Studio Code
 .vscode/
 
+/.ipynb_checkpoints/
