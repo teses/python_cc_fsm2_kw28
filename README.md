@@ -27,4 +27,4 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
   * set
   * dictionary
 * if else
-  *   
+* schleife
