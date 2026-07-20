@@ -26,3 +26,5 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
   * tuple
   * set
   * dictionary
+* if else
+  *   
