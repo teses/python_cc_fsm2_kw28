@@ -3,8 +3,7 @@
 
 Hier ist der ganze Python code vom Dozenten für den Unterricht.
 
-# Beispiele in Python
-
+# Python Grundlagen
 
 * variablen
   * naming
@@ -28,3 +27,30 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
   * dictionary
 * if else
 * schleife
+* function
+  * arbitrary - *args, **kwargs
+  * Rekursive Funktionen 
+  * Callback - Higher-Order Functions
+  * Closures - Funktion in Funktion
+  * Lambda Funktionen
+  * Decorators 
+  * Memoization
+
+-> ein schwung rüber zu doctests
+
+
+* exception
+* user input
+* Testing
+  * doctests
+  * unittests
+* OOP
+
+# Python Module
+
+* eigene Module
+* Dateien lesen und schreiben
+* json
+* pandas
+* etc. pp
+
