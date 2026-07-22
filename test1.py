@@ -1,4 +1,9 @@
 
 
-meinSet = {"Apfel", "Zitrone", "Banane"}
-print(meinSet)
+
+print(hash("Thomas"))
+print(hash("Thomas"))
+print(hash("Thomas"))
+print(hash("Thomas"))
+print(hash("Thomas"))
+print(hash("Thomas"))
