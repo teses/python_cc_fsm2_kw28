@@ -44,6 +44,7 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
 * Testing
   * doctests
   * unittests
+  * integrationstest
 * OOP
 
 # Python Module
