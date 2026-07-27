@@ -35,10 +35,6 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
   * Lambda Funktionen
   * Decorators 
   * Memoization
-
--> ein schwung rüber zu doctests
-
-
 * exception
 * user input
 * Testing
