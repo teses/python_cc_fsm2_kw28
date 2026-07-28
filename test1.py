@@ -1,8 +1,15 @@
 
-import math
+class Punkte:
+    def __init__(self, wert):
+        self.wert = wert
 
-x = 10
+    def __add__(self, andere):
+        return Punkte(self.wert + andere.wert)
 
-print(x ** 0.5)
-print(math.sqrt(x))
+
+punkte1 = Punkte(10)
+punkte2 = Punkte(5)
+
+ergebnis = punkte1 + punkte2
+print(ergebnis.wert, type(ergebnis))
 
