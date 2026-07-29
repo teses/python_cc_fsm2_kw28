@@ -1,4 +1,9 @@
+"""
 
+    doctest ist ein Python-Modul, mit dem Tests direkt in der Dokumentation einer Funktion oder eines Moduls geschrieben werden können.
+    Die Beispiele sehen genauso aus wie Eingaben in der Python-Konsole und werden automatisch ausgeführt.
+
+"""
 
 
 def byteCalculationDezimal(bytes: int) -> str:

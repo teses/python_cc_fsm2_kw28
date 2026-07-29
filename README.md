@@ -37,11 +37,14 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
   * Memoization
 * exception
 * user input
-* Testing
+
+# Testing
   * doctests
   * unittests
-  * integrationstest
-* OOP
+
+# OOP
+
+# Debugging
 
 # Python Module
 
@@ -50,4 +53,5 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
 * json
 * pandas
 * etc. pp
+* docx
 
