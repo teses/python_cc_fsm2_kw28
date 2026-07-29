@@ -1,6 +1,6 @@
 import unittest
-from testing.unittests.lesson3.rechner import Rechner
-#from .rechner import Rechner
+from testing.unittest_suit.rechner import Rechner
+
 
 class TestRechner(unittest.TestCase):
 
