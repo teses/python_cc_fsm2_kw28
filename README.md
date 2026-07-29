@@ -40,6 +40,7 @@ Hier ist der ganze Python code vom Dozenten für den Unterricht.
 
 # Testing
   * doctests
+  * assert
   * unittests
 
 # OOP
