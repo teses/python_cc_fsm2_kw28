@@ -4,7 +4,7 @@ from docx.shared import Pt, RGBColor
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
-def code_block(doc, text):
+def code_block(doc: Document, text):
     p = doc.add_paragraph()
 
     # Hintergrundfarbe setzen
@@ -20,7 +20,7 @@ def code_block(doc, text):
     return p
 
 
-from docx import Document
+
 
 # Neues Word-Dokument erstellen
 doc = Document()
@@ -28,14 +28,14 @@ doc = Document()
 # Titel
 doc.add_heading("Codeblock", level=0)
 
+# Codeblock
 code = """
 import unittest
 
 class TestRechner():
     pass
 """
-
 code_block(doc, code)
 
-
+# save file
 doc.save("word_mit_code.docx")

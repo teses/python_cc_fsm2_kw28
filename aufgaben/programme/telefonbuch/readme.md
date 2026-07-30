@@ -35,6 +35,14 @@ Validierung der Benutzereingaben durch eigene Funktionen, die testbar sein solle
   - Format: 02023 / 123456  
   - Vorwahl / Nummer
 
+## Planung
+
+- Sollzustand
+- Das Ziel
+- Planung der Datenstruktur
+- wie setzte ich das um (funktional, OOP)
+- Analyse & Design
+
 ## Implementierung
 
 Bitte die Business Funktionalitäten in einer eigen Datei auslagern, damit diese getestet werden können.
