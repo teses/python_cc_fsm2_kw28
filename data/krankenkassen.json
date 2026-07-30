@@ -1,0 +1,413 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "5be6505a-9fdc-11e5-abab-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Stadtmitte",
+          "gemeindeteil_schluessel": "0019",
+          "strasse_name": "Kröpeliner Str.",
+          "strasse_schluessel": "06290",
+          "hausnummer": 47,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18055",
+          "bezeichnung": "DAK - Servicecentrum Rostock",
+          "betreiber": "DAK-Gesundheit KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Mo-Mi 08:00-16:00; Do 08:00-17:00; Fr 08:00-13:00",
+          "telefon_festnetz": "+49 381 4407600",
+          "telefon_mobil": null,
+          "email": "service718500@dak.de",
+          "website": "https://www.dak.de"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.1302517,
+            54.0883446
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "3cc66ba2-9f4f-11e5-9e51-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Stadtmitte",
+          "gemeindeteil_schluessel": "0019",
+          "strasse_name": "Grubenstr.",
+          "strasse_schluessel": "03160",
+          "hausnummer": 44,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18055",
+          "bezeichnung": "BARMER GEK",
+          "betreiber": "BARMER GEK KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Mo-Mi 09:00-18:00; Do 09:00-19:00; Fr 09:00-16:00",
+          "telefon_festnetz": "+49 381 45696110",
+          "telefon_mobil": null,
+          "email": "service@barmer.de",
+          "website": "https://www.barmer.de/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.143803,
+            54.089702
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "9e23bd48-9fe8-11e5-abb1-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Lütten Klein",
+          "gemeindeteil_schluessel": "0010",
+          "strasse_name": "Trelleborger Str.",
+          "strasse_schluessel": "10450",
+          "hausnummer": 10,
+          "hausnummer_zusatz": "d",
+          "postleitzahl": "18107",
+          "bezeichnung": "meine krankenkasse",
+          "betreiber": "BKK mkk – meine krankenkasse",
+          "barrierefrei": true,
+          "oeffnungszeiten": null,
+          "telefon_festnetz": "+49 381 20741890",
+          "telefon_mobil": null,
+          "email": "info@meine-krankenkasse.de",
+          "website": "https://www.meine-krankenkasse.de"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.0581784,
+            54.1373478
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "157688aa-e979-41b7-9ce9-99fde666e000",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Stadtmitte",
+          "gemeindeteil_schluessel": "0019",
+          "strasse_name": "Rungestr.",
+          "strasse_schluessel": "08140",
+          "hausnummer": 17,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18055",
+          "bezeichnung": "HEK Hanseatische Krankenkasse",
+          "betreiber": "HEK - Hanseatische Krankenkasse",
+          "barrierefrei": null,
+          "oeffnungszeiten": "Mo-Mi 08:00-16:00; Do 08:00-18:00; Fr 08:00-13:00",
+          "telefon_festnetz": "+49 800 0213213",
+          "telefon_mobil": null,
+          "email": "kontakt@hek.de",
+          "website": "https://www.hek.de/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.1365101,
+            54.0878784
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "24c01bb0-9ff0-11e5-b02a-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Stadtmitte",
+          "gemeindeteil_schluessel": "0019",
+          "strasse_name": "Blücherstr.",
+          "strasse_schluessel": "01440",
+          "hausnummer": 27,
+          "hausnummer_zusatz": "c",
+          "postleitzahl": "18055",
+          "bezeichnung": "IK - Die Innovationskasse",
+          "betreiber": "IKK - Die Innovationskasse, KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Mo-Fr 08:00-18:00",
+          "telefon_festnetz": "+49 381 3670",
+          "telefon_mobil": null,
+          "email": "mail@die-ik.de",
+          "website": "https://www.die-ik.de/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.1447661,
+            54.0809933
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "db5083c2-9f4d-11e5-9e4e-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Stadtmitte",
+          "gemeindeteil_schluessel": "0019",
+          "strasse_name": "Kröpeliner Str.",
+          "strasse_schluessel": "06290",
+          "hausnummer": 11,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18055",
+          "bezeichnung": "AOK Nordost – Studierendenservice Rostock",
+          "betreiber": "AOK Nordost KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Nur mit Terminvereinbarung",
+          "telefon_festnetz": "+49 800 2650802300",
+          "telefon_mobil": null,
+          "email": null,
+          "website": "https://www.aok.de/pk/nordost/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.1383025,
+            54.0885806
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "db73c1ca-9f4d-11e5-9e4f-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Lütten Klein",
+          "gemeindeteil_schluessel": "0010",
+          "strasse_name": "Warnowallee",
+          "strasse_schluessel": "09530",
+          "hausnummer": 28,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18107",
+          "bezeichnung": "AOK Nordost - Servicecenter Rostock",
+          "betreiber": "AOK Nordost KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Nur mit Terminvereinbarung",
+          "telefon_festnetz": "+49 800 2650800",
+          "telefon_mobil": null,
+          "email": null,
+          "website": "https://www.aok.de/pk/nordost/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.0515169,
+            54.1386132
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "02c97a96-a04c-4529-aee5-4c3c482b9157",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Stadtmitte",
+          "gemeindeteil_schluessel": "0019",
+          "strasse_name": "Kröpeliner Str.",
+          "strasse_schluessel": "06290",
+          "hausnummer": 11,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18055",
+          "bezeichnung": "AOK Nordost - Servicecenter Rostock",
+          "betreiber": "AOK Nordost KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Nur mit Terminvereinbarung",
+          "telefon_festnetz": "+49 800 2650800",
+          "telefon_mobil": null,
+          "email": null,
+          "website": "https://www.aok.de/pk/nordost/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.1383025,
+            54.0885806
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "2a7e15a8-9fe5-11e5-abad-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Stadtmitte",
+          "gemeindeteil_schluessel": "0019",
+          "strasse_name": "Lange Str.",
+          "strasse_schluessel": "06450",
+          "hausnummer": 7,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18055",
+          "bezeichnung": "KKH Servicestelle Rostock",
+          "betreiber": "Kaufmännische Krankenkasse KKH KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Di 09:00-12:00,13:00-18:00; Mi 13:00-16:00; Fr 09:00-13:00",
+          "telefon_festnetz": "+49 30 72610370",
+          "telefon_mobil": null,
+          "email": "rostock@kkh.de",
+          "website": "https://www.kkh.de/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.1333003,
+            54.0902165
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "6da5d706-9fe7-11e5-abae-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Stadtmitte",
+          "gemeindeteil_schluessel": "0019",
+          "strasse_name": "Dalwitzhofer Weg",
+          "strasse_schluessel": "01760",
+          "hausnummer": 22,
+          "hausnummer_zusatz": "a",
+          "postleitzahl": "18055",
+          "bezeichnung": "Salus BKK Service-Center Rostock",
+          "betreiber": "Salus BKK KdöR",
+          "barrierefrei": null,
+          "oeffnungszeiten": "Mo,Mi,Fr 08:00-12:00; Di,Do 14:00-18:00",
+          "telefon_festnetz": "+49 381 4904910",
+          "telefon_mobil": null,
+          "email": "info-rostock@salus-bkk.de",
+          "website": "https://www.salus-bkk.de/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.1407016,
+            54.0737685
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "6ecf3a34-9fea-11e5-abb2-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Kröpeliner-Tor-Vorstadt",
+          "gemeindeteil_schluessel": "0016",
+          "strasse_name": "Doberaner Str.",
+          "strasse_schluessel": "01860",
+          "hausnummer": 114,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18057",
+          "bezeichnung": "VIACTIV Krankenkasse",
+          "betreiber": "VIACTIV Krankenkasse KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Mo-Mi 09:00-16:00; Do 09:00-18:00; Fr 09:00-15:00",
+          "telefon_festnetz": "+49 800 2221211",
+          "telefon_mobil": null,
+          "email": "service@viactiv.de",
+          "website": "https://www.viactiv.de"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.1145114,
+            54.0919927
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "uuid": "8cede82a-9f4b-11e5-9e4b-0050569b7e95",
+          "kreis_name": "Rostock",
+          "kreis_schluessel": "13003",
+          "gemeindeverband_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeindeverband_schluessel": "130030000",
+          "gemeinde_name": "Rostock, Hanse- und Universitätsstadt",
+          "gemeinde_schluessel": "130030000000",
+          "gemeindeteil_name": "Kröpeliner-Tor-Vorstadt",
+          "gemeindeteil_schluessel": "0016",
+          "strasse_name": "Doberaner Str.",
+          "strasse_schluessel": "01860",
+          "hausnummer": 10,
+          "hausnummer_zusatz": null,
+          "postleitzahl": "18057",
+          "bezeichnung": "Techniker Krankenkasse",
+          "betreiber": "Techniker Krankenkasse KdöR",
+          "barrierefrei": true,
+          "oeffnungszeiten": "Mo,Di 09:00-16:00; Mi 09:00-14:00; Do 09:00-17:00; Fr 09:00-13:00",
+          "telefon_festnetz": "+49 381 4522230",
+          "telefon_mobil": null,
+          "email": "rostock@tk.de",
+          "website": "https://www.tk.de/techniker"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.124328,
+            54.0880299
+          ]
+        }
+      }
+    ]
+  }
