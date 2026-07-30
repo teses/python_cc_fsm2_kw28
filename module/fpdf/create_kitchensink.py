@@ -15,6 +15,7 @@ class MyPdf(FPDF):
         self.multi_cell(w=width, h=16, text=title, border=0, align='C')
         self.set_x(pdf.l_margin)
 
+
     def create_headline(self, text, level=1):
         """Überschrift H1 bis H5."""
 
@@ -42,6 +43,7 @@ class MyPdf(FPDF):
         self.multi_cell(width,6,text,align="J")
         self.ln(4)
 
+
     def bullet_list(self, items):
         """Aufzählung mit Punkten."""
 
@@ -54,6 +56,25 @@ class MyPdf(FPDF):
 
         self.ln(3)
 
+    def table(self, headers, rows, widths):
+        # Tabellenkopf
+        self.set_font("Helvetica", "B", 10)
+        self.set_fill_color(220, 220, 220)
+        self.set_text_color(0, 0, 0)
+
+        for header, width in zip(headers, widths):
+            self.cell(width,8,str(header),border=1,align="C",fill=True)
+
+        self.ln()
+        # Tabelleninhalt
+        self.set_font("Helvetica", "", 10)
+
+        for row in rows:
+            for value, width in zip(row, widths):
+                self.cell(width, 8, str(value), border=1)
+            self.ln()
+
+        self.ln(3)
 
 
 
@@ -100,6 +121,27 @@ pdf.bullet_list([
     "JavaScript",
     "PHP"
 ])
+
+
+# ==================================================
+# TABELLE
+# ==================================================
+pdf.create_headline("3. Tabelle", 1)
+headers = [
+    "Programmiersprache",
+    "Einsatzgebiet",
+    "Schwierigkeit"
+]
+rows = [
+    ["Python", "Datenanalyse", "Einfach"],
+    ["Java", "Backend", "Mittel"],
+    ["C#", ".NET", "Mittel"],
+    ["JavaScript", "Web", "Mittel"],
+    ["PHP", "Web", "Einfach"],
+]
+widths = [55, 65, 50]
+pdf.table(headers,rows,widths)
+
 
 
 # PDF speichern
