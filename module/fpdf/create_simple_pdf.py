@@ -6,7 +6,7 @@ from fpdf import FPDF
 # PDF-Dokument erstellen
 pdf = FPDF(orientation="P", unit="mm", format="A4")
 pdf.add_page()
-pdf.set_font("helvetica", style="B", size=16)
+pdf.set_font("helvetica", style="", size=9)
 pdf.set_margins(
     left=20,
     top=20,
@@ -33,7 +33,9 @@ pdf.ln()
 text2 = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 pdf.multi_cell(w=100, h=6, text=text2, border=1, align='L', new_x="LEFT")
 
-
+# normale zelle ohne umbruch
+width = pdf.w - (pdf.l_margin + pdf.r_margin)
+pdf.cell(w=width, h=10, text='Powered by FPDF.', border=1, new_x="LMARGIN", new_y="NEXT", align='C')
 
 # PDF speichern
 pdf_path = "simple.pdf"
