@@ -78,7 +78,11 @@ Hirachie
 ```TestSuite -> TestKlasse -> TestMethode```
 
 
+# Test finden
 
+```
+python -m unittest discover -v -s . -p "test_*.py"
+```
 
 
 

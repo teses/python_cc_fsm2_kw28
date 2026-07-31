@@ -21,3 +21,5 @@ class TestMathematik(unittest.TestCase):
         self.assertFalse(len(self.leere_liste) > 0)
         self.assertTrue(len(self.test_zahlen) == 5)
 
+if __name__ == "__main__":
+    unittest.main()
