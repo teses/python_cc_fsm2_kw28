@@ -26,8 +26,8 @@ class Datenbank:
         )
         self.conn.commit()
 
-    def alle_kunden(self):
-        cursor = self.conn.execute("SELECT name FROM kunden")
+    def alle_kunden(self, order="name", sort="ASC"):
+        cursor = self.conn.execute(f"SELECT name FROM kunden ORDER BY {order} {sort}")
         return [zeile[0] for zeile in cursor]
 
 

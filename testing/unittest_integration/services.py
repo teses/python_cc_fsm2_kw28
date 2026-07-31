@@ -1,11 +1,11 @@
+ 
 
-
-from datenbank import Datenbank
+from testing.unittest_integration.datenbank import Datenbank
 
 
 class KundenService:
 
-    def __init__(self, db):
+    def __init__(self, db: Datenbank):
         self.db = db
 
 
