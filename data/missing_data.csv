@@ -1,0 +1,16 @@
+id,name,alter,stadt,gehalt,abteilung,eintrittsdatum
+1,Anna,29,Berlin,4200,IT,2021-03-15
+2,Ben,,Hamburg,3900,Vertrieb,2020-07-01
+3,Clara,35,,5100,IT,2019-11-20
+4,David,41,München,,HR,2018-05-10
+5,Emma,27,Köln,4500,,2022-01-17
+6,Felix,,,4700,Marketing,2021-09-30
+7,Greta,31,Düsseldorf,NaN,IT,
+8,Hassan,45,Frankfurt,6200,Management,2017-12-01
+9,Iris,38,Stuttgart,,Vertrieb,2019-06-25
+10,Jonas,NaN,Dortmund,4100,HR,2020-02-14
+11,Klara,26,Essen,3800,Marketing,
+12,Leo,33,,5000,IT,2021-08-08
+13,Mia,,Bremen,4300,,2022-04-12
+14,Noah,29,Hannover,NaN,Vertrieb,2020-10-19
+15,Olivia,37,Leipzig,5400,Management,
