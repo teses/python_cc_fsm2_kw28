@@ -66,5 +66,11 @@
 - DataFrame
 - Data read and write
 - Daten untersuchen (Exploration)
+- Missing Data Handling
+- Data cleaning & transformation
+- Data transforming - Spalten ändern oder neue erstellen
 
-
+- Data selection & filtering - Daten gezielt auswählen
+- Data grouping & aggregation 
+- Data combining & merging
+- Timeseries analysis

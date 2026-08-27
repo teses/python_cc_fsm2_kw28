@@ -1,0 +1,12 @@
+kundennr,name,Email,telefon,LAND,stadt,geburtsdatum,umsatz,status,registriert_am
+1001," Anna Schmidt ","ANNA.SCHMIDT@MAIL.DE ","0176-1234567","de","berlin","12.03.1995","1.250,50","aktiv","2023/01/15"
+1002,"Ben Müller","ben.mueller@mail.de   ","","DE","Hamburg","1990-07-22","980.00","aktiv","15-02-2023"
+1003,"Clara Weber","  clara.weber(at)mail.de","0049 151 998877","Deutschland","münchen","","2.500,99","inaktiv","2022-11-03"
+1004,"David Klein","DAVID.KLEIN@mail.de","01511222333","de ","KÖLN","1988/12/01","-","aktiv","2023-05-10"
+1005,"Emma Fischer",,"01781234567","DE","Frankfurt","17.08.1999","1750","gesperrt","2023.03.01"
+1006,"Felix Hoffmann   ","felix.hoffmann@mail","12345","de","Stuttgart","1993-01-14","1.100","aktiv",""
+1007,"Greta Wagner ","GRETA.WAGNER@mail.de","0176 777777","DE","düsseldorf","31.02.1992","850,75","aktiv","2023-07-19"
+1008," Hassan Ali","hassan.ali@mail.de ","+49 171 222333","Deutschland","Leipzig","1985-05-30","3.400,00","aktiv","2021-09-01"
+1009,"Iris Becker","iris.becker@mail.de",,"DE","Essen","1998-04-11","NaN","inaktiv","2022-12-12"
+1009,"Iris Becker","iris.becker@mail.de",,"DE","Essen","1998-04-11","NaN","inaktiv","2022-12-12"
+1010,"Jonas Wolf","jonas.wolf@mail.de","0170999888","de","Dortmund","2001-09-09","1200.5","aktiv","2023-08-21"
