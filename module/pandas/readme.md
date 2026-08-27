@@ -57,9 +57,14 @@
   - Finanzdaten
   - Produktionsdaten
 
+# Installation
+
+```pip install sqlalchemy pymysql```
 
 # Inhalt
 
 - DataFrame
 - Data read and write
+- Daten untersuchen (Exploration)
+
 
