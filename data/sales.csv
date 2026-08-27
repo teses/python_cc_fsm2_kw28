@@ -1,0 +1,11 @@
+Datum,Produkt,Kategorie,Preis,Menge,Region
+2025-01-01,Laptop,Elektronik,1200,2,West
+2025-01-02,Maus,Elektronik,25,5,West
+2025-01-03,Tastatur,Elektronik,45,3,Ost
+2025-01-03,Stuhl,Möbel,150,1,Süd
+2025-01-04,Tisch,Möbel,300,1,Nord
+2025-01-05,Laptop,Elektronik,1200,1,Ost
+2025-01-06,Maus,Elektronik,25,10,Süd
+2025-01-07,Monitor,Elektronik,250,2,West
+2025-01-08,Stuhl,Möbel,150,4,Nord
+2025-01-09,Tisch,Möbel,300,2,Ost
