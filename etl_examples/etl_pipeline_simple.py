@@ -27,7 +27,7 @@ TABLE_NAME = "sales_varianz"
 ################################################################################################
 db_connection = create_engine(
     "mysql+pymysql://root:@localhost:3306/comcave_etl",
-    echo=False
+    echo=True
 )
 
 ################################################################################################
@@ -37,6 +37,7 @@ db_connection = create_engine(
 def extract() -> pd.DataFrame:
     print("extract wird aufgerufen")
     df = pd.read_csv(SOURCE_FILE)
+
     return df
 
 
