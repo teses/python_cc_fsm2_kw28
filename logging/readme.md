@@ -39,3 +39,54 @@ https://peps.python.org/pep-0282/
 ```pip install logging```  
 
 ----
+
+# Klassenstruktur - UML
+
+```mermaid
+classDiagram
+
+class Logger {
+    +setLevel(level)
+    +addHandler(handler)
+    +debug(message)
+    +info(message)
+    +warning(message)
+    +error(message)
+    +critical(message)
+}
+
+class Record {
+    +levelname
+    +name
+    +getMessage()
+}
+
+
+class Handler {
+    +setFormatter(Formatter)
+}
+ 
+class Formatter {
+    +format(record)
+}
+
+class MySQLHandler {
+    +emit(record)
+}
+
+class StreamHandler {
+    +emit(record)
+}
+
+class FileHandler {
+    +emit(record)
+}
+
+Handler <|-- StreamHandler
+Handler <|-- MySQLHandler
+StreamHandler <|-- FileHandler 
+
+Logger o-- Handler
+Handler o-- Formatter 
+
+```
