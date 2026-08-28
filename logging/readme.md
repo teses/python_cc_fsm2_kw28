@@ -36,4 +36,6 @@ https://peps.python.org/pep-0282/
 
 # Installation
 
-```pip install logging```
+```pip install logging```  
+
+----
