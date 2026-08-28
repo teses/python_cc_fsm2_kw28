@@ -1,0 +1,5 @@
+2026-08-28 11:00:43,702 | INFO | app | CSV-Datei wird eingelesen
+2026-08-28 11:00:44,203 | WARNING | app | Datensatz ohne Preis gefunden
+2026-08-28 11:00:44,704 | ERROR | app | Fehler beim Schreiben in die Datenbank
+2026-08-28 11:00:45,205 | INFO | app | ETL-Prozess erfolgreich beendet
+2026-08-28 11:00:45,705 | CRITICAL | app | Absoluter Abbruch

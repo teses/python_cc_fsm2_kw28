@@ -26,7 +26,7 @@ TABLE_NAME = "sales_varianz"
 # Database Connection
 ################################################################################################
 db_connection = create_engine(
-    "mysql+pymysql://root:@localhost:3306/comcave_etl",
+    "mysql+pymysql://root:root@localhost:3306/comcave_etl",
     echo=True
 )
 
