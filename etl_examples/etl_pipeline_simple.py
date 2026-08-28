@@ -37,7 +37,6 @@ db_connection = create_engine(
 def extract() -> pd.DataFrame:
     print("extract wird aufgerufen")
     df = pd.read_csv(SOURCE_FILE)
-
     return df
 
 
@@ -85,6 +84,7 @@ def pipeline():
     data = extract()
     data = transform(data)
     load(data)
+
 
 # start
 pipeline()

@@ -31,6 +31,9 @@ def pipeline():
 
 pipeline()
 
+p = ETLPriceFile()
+p.run()
+
 
 
 
